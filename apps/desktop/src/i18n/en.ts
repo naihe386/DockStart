@@ -2962,7 +2962,6 @@ export const english: Readonly<Record<string, string>> = {
   "转换时去除水分子": "Remove water molecules during conversion",
   "转换时去除金属离子": "Remove metal ions during conversion",
   "转换时去除非标准残基与辅因子": "Remove non-standard residues and cofactors during conversion",
-  " 个": " item(s)",
   "注意：如果结构中仍有准备工具不认识的残基（例如糖基、特殊配体），只勾选去除水分子仍然会导致转换失败；需要把它们一并去除，或另外提供残基模板。": "Note: if the structure still contains residues the preparation tool does not recognize (for example sugars or unusual ligands), removing only the waters will still make the conversion fail; remove them as well, or supply residue templates.",
   "参数格式需要修正": "Parameter format needs to be corrected",
   "请检查 Box 尺寸、基础参数和高级设置中的数值范围。": "Please check the value range in Box size, basic parameters and advanced settings.",

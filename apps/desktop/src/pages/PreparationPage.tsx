@@ -1463,7 +1463,7 @@ export default function PreparationPage({
                       {translate(group.label)}
                       <small>
                         {" "}
-                        {group.items.length}{translate(" 个")}
+                        {group.items.length}{translate("个")}
                         {" · "}
                         {[...new Set(group.items.map((item) => item.residueName))].join(" / ")}
                       </small>
